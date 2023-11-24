@@ -9,3 +9,4 @@ others training
 
 ![image](https://github.com/sdkyuanpanda/SuperDiff/assets/49769610/95187bdd-100f-4fd9-b630-701a9c233d2e)
 
+TODO: run pnictide training again and sample again
