@@ -8,7 +8,7 @@ This is the implementation of SuperDiff, a state-of-the-art method for computati
   <img src="https://github.com/sdkyuanpanda/SuperDiff/assets/49769610/fdf28dd9-4fdc-406b-bd3e-d4d67932ddc8" width="75%">
 </p>
 
-This repository also contains all the LaTeX code for the figures.
+This repository also contains all the LaTeX code for the figures in the paper.
 
 
 
