@@ -10,6 +10,11 @@ This is the implementation of SuperDiff, a state-of-the-art method for computati
 
 This repository also contains all the LaTeX code for the figures in the paper, which may be found in `paper/figures`.
 
+<p align="center">
+  <img src="https://github.com/sdkyuanpanda/SuperDiff/assets/49769610/66eefc6a-ca3a-41a4-a557-93fc49b9b08f" width="75%">
+</p>
+
+
 
 
 # Usage
