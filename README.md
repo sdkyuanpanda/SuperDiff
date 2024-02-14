@@ -8,11 +8,8 @@ This is the implementation of SuperDiff, a state-of-the-art method for computati
   <img src="https://github.com/sdkyuanpanda/SuperDiff/assets/49769610/fdf28dd9-4fdc-406b-bd3e-d4d67932ddc8" width="75%">
 </p>
 
-This repository also contains all the LaTeX code for the figures in the paper, which may be found in `paper/figures`.
+Pre-trained UNet(s) used for SuperDiff are available in `SuperDiff/checkpoints` and 
 
 <p align="center">
   <img src="https://github.com/sdkyuanpanda/SuperDiff/assets/49769610/66eefc6a-ca3a-41a4-a557-93fc49b9b08f" width="75%">
 </p>
-
-Pre-trained UNet(s) used for SuperDiff are available in `SuperDiff/checkpoints` and 
-
