@@ -14,23 +14,5 @@ This repository also contains all the LaTeX code for the figures in the paper, w
   <img src="https://github.com/sdkyuanpanda/SuperDiff/assets/49769610/66eefc6a-ca3a-41a4-a557-93fc49b9b08f" width="75%">
 </p>
 
+Pre-trained UNet(s) used for SuperDiff are available in `SuperDiff/checkpoints` and 
 
-
-
-# Usage
-
-
-# Training
-
-For loading the pre-trained UNet for SuperDiff, which are located in `SuperDiff/checkpoints`
-```python
-from denoising_diffusion_pytorch import Unet1D
-unet = Unet1D(
-    dim = 48,
-    dim_mults = (1, 2, 3, 6),
-    channels = 1
-)
-unet.to(device)
-unet.load_state_dict(torch.load(("cuprate5_unet_param_69.pth")))
-```
-The above is to load the `cuprate` model. Alternatively, the models for `others`, `pnictides`, or `everything` can be loaded as well, and the files for which are located in the same folder as well.
