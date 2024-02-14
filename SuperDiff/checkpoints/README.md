@@ -1,4 +1,6 @@
-unet checkpoints
+# UNet Checkpoints
+
+Pre-trained models for cuprates, others, and pnictides used for the results in the paper are provided here.
 
 Example training curves:
 
