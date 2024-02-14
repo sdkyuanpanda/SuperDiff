@@ -18,11 +18,13 @@ Pre-trained UNet(s) used for SuperDiff are available in `SuperDiff/checkpoints`,
 
 If you find this work useful, please cite it as
 
-`@misc{yuan2024superdiff,
+```
+@misc{yuan2024superdiff,
       title={SuperDiff: Diffusion Models for Conditional Generation of Hypothetical New Families of Superconductors}, 
       author={Samuel Yuan and S. V. Dordevic},
       year={2024},
       eprint={2402.00198},
       archivePrefix={arXiv},
       primaryClass={cond-mat.supr-con}
-}`
+}
+```
