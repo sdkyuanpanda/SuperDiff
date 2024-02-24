@@ -8,7 +8,7 @@ Pre-trained UNETs are available in `SuperDiff/checkpoints` and training dataset 
 
 ## What's in this Folder?
 
-This folder `SuperDiff` contains a sample unconditional and conditional SuperDiff version: `diffusion_1d_v3` is the unconditional version of SuperDiff and `diffusion_1d_v4` is the conditional version.
+This folder `SuperDiff` contains sample unconditional and conditional SuperDiff versions: `diffusion_1d_v3` is the unconditional version of SuperDiff and `diffusion_1d_v4` is the conditional version.
 
 Here, `diffusion1d-v3-[VERSION]-SAMPLE.ipynb` are the unconditional SuperDiff versions (name corresponds to class—cuprates, pnictides, etc.) and `diffusion1d_v4_ilvr_YBa1.4Sr0.6Cu3O6Se0.51.ipynb` is conditional SuperDiff trained on cuprates conditioned on YBa1.4Sr0.6Cu3O6Se0.51. Code for the other versions of conditional SuperDiff conditioned on various other compounds is available upon reasonable request to the corresponding author at [sdkyuan@gmail.com](mailto:sdkyuan@gmail.com).
 
